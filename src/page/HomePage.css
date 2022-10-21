@@ -1,0 +1,25 @@
+
+.home-header{
+    height: 3em;
+    background: floralwhite;
+    border-bottom: #282c34 1px solid;
+}
+
+.home-title-box{
+    height: 100%;
+    width: fit-content;
+
+    padding-left: 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-title-text{
+    font-family: Arial, serif;
+    font-weight: bolder;
+}
+
+.home-body{
+
+}
