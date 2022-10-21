@@ -1,5 +1,4 @@
 import "./HomePage.css"
-import "./Common.css"
 export function HomePage() {
     return <div>
         <div className="home-header">
